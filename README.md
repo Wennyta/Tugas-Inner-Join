@@ -1,5 +1,5 @@
 # Tugas-Upload
-Tugas Database
+Tugas 5 Basis Data
 ## Deskripsi Aplikasi 
 Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
 <br>
@@ -15,5 +15,9 @@ Username : admin
 Password : admin123
 <br>
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
+
+#Gambar
+-Normalisasi
+<"img src="https://raw.githubusercontent.com/LadyEarth/kasir/master/assets/img/pic/1.png">
 
 
