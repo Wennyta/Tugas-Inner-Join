@@ -8,7 +8,8 @@ Tugas Database
 Username : admin
 Password : admin123
 <br>
-## Lampiran Gambar
+## Lampiran Gambar<br>
+
 - Normalisasi
 <img src="/assets/img/pic/1.jpg" width="425" height="550">
 
