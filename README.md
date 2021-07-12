@@ -19,4 +19,4 @@ Password : admin123
 <img src="/assets/img/pic/4.jpg" width="425" height="550">
 
 - Index
-<img src="/assets/img/pic/Capture.png">
+<img src="/assets/img/pic/Capture.PNG">
