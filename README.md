@@ -1,19 +1,22 @@
+
+
+<br>
 # Tugas-Upload
 Tugas Database
-## Deskripsi Aplikasi 
-Source Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP & MYSQL.
 <br>
-
-<br>
-
-## Setting Koneksi PHP
-setting koneksi di config.php dan ganti username, password dan dbname nya
-
 ## Penggunaan Login
 Username : admin
-<br/>
 Password : admin123
 <br>
-<span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
+## Lampiran Gambar
+- Normalisasi
+<img src="/assets/img/pic/1.jpg" width="425" height="550">
 
-<img src="https://raw.githubusercontent.com/LadyEarth/Tugas-Upload/tree/main/assets/img/pic/1.jpg">
+- ERD  
+<img src="/assets/img/pic/3.jpg" width="425" height="550">
+
+- Desain Database
+<img src="/assets/img/pic/4.jpg" width="425" height="550">
+
+- Index
+<img src="/assets/img/pic/Capture.png">
