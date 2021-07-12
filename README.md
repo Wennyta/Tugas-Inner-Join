@@ -16,4 +16,4 @@ Password : admin123
 <br>
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
-
+<"img src="https://raw.githubusercontent.com/LadyEarth/kasir/master/assets/img/pic/1.jpg">
