@@ -90,7 +90,7 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id_login`, `user`, `pass`, `id_member`) VALUES
-(1, 'admin', '202cb962ac59075b964b07152d234b70', 1);
+(1, 'admin', '0192023a7bbd73250516f069df18b500', 1);
 
 -- --------------------------------------------------------
 
